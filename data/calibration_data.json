@@ -1,0 +1,22 @@
+{
+  "BigSmoke_Tr": {
+    "elo": 200,
+    "loss_index": 16.57137831570369
+  },
+  "IvanKulkin": {
+    "elo": 750,
+    "loss_index": 10.021627548848548
+  },
+  "testg123": {
+    "elo": 830,
+    "loss_index": 10.448218588624975
+  },
+  "mihaley2013": {
+    "elo": 1500,
+    "loss_index": 8.50332627544213
+  },
+  "ChessDestroyer102": {
+    "elo": 2452,
+    "loss_index": 4.882017082303205
+  }
+}

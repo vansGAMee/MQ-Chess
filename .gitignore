@@ -1,3 +1,22 @@
-venv/
+# Python
 __pycache__/
-*.png
+*.pyc
+*.pyo
+venv/
+env/
+*.so
+*.dylib
+*.dll
+*.o
+*.a
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# Data (если не хотите коммитить большие файлы, но calibration_data.json оставляем)
+# data/*.json
+
+# Logs
+*.log
